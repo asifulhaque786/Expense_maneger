@@ -58,7 +58,7 @@ class NewTransaction extends StatelessWidget {
                   /*Fluttertoast.showToast(msg: "transaction taken");*/
                   submit();
                 },
-              ) /*lecture 84-85*/
+              ) 
             ],
           ),
         ));
